@@ -110,3 +110,6 @@ Here's a sample JSON response from the API:
 - Ensure that the API endpoints in the **API Endpoints** section match what your application supports.
 - You can add more sections or modify existing ones to better fit the specifics of your project.
 - Open the port in your browser to checkup and dont forget to clean the cache
+## Project URL
+
+For more details about this project idea, visit: [Proxy-Caching Project](https://roadmap.sh/projects/caching-server)
