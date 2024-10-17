@@ -1,0 +1,5 @@
+com\tap\CachingProxyApplication.class
+com\tap\controller\ProxyController$1.class
+com\tap\controller\ProxyController.class
+com\tap\service\ProxyService.class
+com\tap\model\CacheModel.class
